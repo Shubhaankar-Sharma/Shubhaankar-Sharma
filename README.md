@@ -4,4 +4,4 @@
 ## Here are my github stats! :>
 [![Shubhaankar's Github Stats](https://github-readme-stats.vercel.app/api?username=Shubhaankar-Sharma&show_icons=true&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhaankar-Sharma&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhaankar-Sharma&theme=nord&hide=dart)](https://github.com/anuraghazra/github-readme-stats)
