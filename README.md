@@ -1,7 +1,7 @@
 Hi 👋 My name is Shubhaankar AKA SpongeBoi
 ==========================================
 
-I've been learning to code since a long time, I started with arduino, learnt python -> pygame, django, and a lot of stuff, then I moved on to dart -> flutter, and so on... finally went on to find Golang and learnt a lot of stuff there... I also love to do DevOps love to work with k8s and pulumi :).
+I've been learning to code since a long time, I started with arduino, learnt python -> pygame, django, and a lot of stuff, then I moved on to dart -> flutter, and so on... finally went on to find Golang and learnt a lot of stuff there...
 
 
 Currently I'm exploring the web3 space and working at https://horizon.io/ helping build skyweaver and sequence 👀 
